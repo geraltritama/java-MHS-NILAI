@@ -1,3 +1,3 @@
-# java-MHS-NILAI
-Tugas Methods Java PBO (Pertemuuan 1)
+# java-MHS-NILAI - Pertemuan 1
+Tugas Methods Java PBO (Pertemuan 1)
 
